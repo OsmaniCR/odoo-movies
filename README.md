@@ -89,6 +89,7 @@ El módulo "Películas" incluye pruebas automatizadas y también se puede verifi
 
 ## Changelog
 - 0.1.1: [Estructura básica] --> Se implementa estructura básica del módulo personalizado.
+- 0.2.1: [Módulo Péliculas] --> Se agregan modelos, vistas, etc, necesarios para el módulo.
 
 
 ## Autores y licencia
