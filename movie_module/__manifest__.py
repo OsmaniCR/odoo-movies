@@ -18,7 +18,12 @@
         "python": ["requests"],
     },
     "icon": "/movie_module/static/src/img/image.png",
-    "data": [],
+    "data": [
+        "views/movie_views.xml",
+        "views/movie_menu.xml",
+        "security/ir.model.access.csv",
+        "views/res_config_settings_views.xml",
+    ],
     "demo": [],
     "application": True,
     "installable": True,
