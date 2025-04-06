@@ -92,6 +92,7 @@ El módulo "Películas" incluye pruebas automatizadas y también se puede verifi
 - 0.2.1: [Módulo Péliculas] --> Se agregan modelos, vistas, etc, necesarios para el módulo.
 - 0.3.1: [Cron Job] --> Se implementa tarea programada para generar películas desde servicio (API) externo.
 - 0.4.1: [API Rest] --> Se disponibliza servicio para obtener top de películas ordenadas por ranking.
+- 0.5.1: [Tests] --> Se implementan test unitarios, para probar el correcto funcionamiento de los servicios del módulo.
 
 
 ## Autores y licencia
