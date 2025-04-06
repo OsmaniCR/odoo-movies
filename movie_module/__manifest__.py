@@ -23,6 +23,7 @@
         "views/movie_menu.xml",
         "security/ir.model.access.csv",
         "views/res_config_settings_views.xml",
+        "data/ir_cron_data.xml",
     ],
     "demo": [],
     "application": True,
